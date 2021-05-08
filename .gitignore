@@ -1,5 +1,8 @@
 /dist
 ./dist
+/bundle
+./bundle
+.rpt2_cache
 .vscode
 .idea
 ./node_modules

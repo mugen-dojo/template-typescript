@@ -6,6 +6,16 @@
 npm install
 ```
 
+# BUNDLES
+
+## Bundled transpilation + hotreload
+- `npm run dev:bundle`
+
+## Bundled transpilation
+- `npm run build:bundle`
+
+## NO BUNDLES
+
 ## Transpilation
 - `npm run build`
 
